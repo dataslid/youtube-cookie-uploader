@@ -1,12 +1,3 @@
-Metadata-Version: 2.1
-Name: youtube-selenium-cookie
-Version: 0.2
-Summary: A Youtube 3rd Party Library that uses selenium and webdriver_manager
-Home-page: https://github.com/azeez010/youtube-selenium-cookie
-Author: Abdulazeez Olabode
-Author-email: dataslid@gmail.com
-Description-Content-Type: text/markdown
-
 # youtube-selenium-cookie
 
 ```python
